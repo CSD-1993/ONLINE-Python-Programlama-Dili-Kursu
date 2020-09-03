@@ -12,4 +12,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Python_Programlama_Dili_ve_Uygulamalari/blob/master/_kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/ONLINE-Python-Programlama-Dili-Kursu/blob/master/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/sss.md)
-+ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZIsf-CtrjgqGd1a9NCXKmWzbGRIFUDfqhSE) 
++ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZEsduqgrDgsGNJqLqFTYTPmhRtVHNo4PWL-) 
