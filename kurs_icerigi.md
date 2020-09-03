@@ -183,4 +183,4 @@
     
 # Kursa Kayıt
 Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
-[Kursa Kayıt](https://zoom.us/meeting/register/tZIucuCrqj8jKyo4n39H3ZTovcT8it26eA)
+[Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZEsduqgrDgsGNJqLqFTYTPmhRtVHNo4PWL-)
