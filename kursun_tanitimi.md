@@ -27,7 +27,7 @@ Dersler __Cumartesi-Pazar__ günleri saat __09:00-13:00__ saatleri arasında __4
 Kurs __C ve Sistem Programcıları Derneği__ başkanı __Kaan ASLAN__ tarafından verilmektedir. __Kaan ASLAN__ yazılım alanında Türkiye’deki en deneyimli eğitmenlerdendir. Çeşitli pozisyonlarda onlarca projede bulunmuş, __200__’ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir.
 
 ## Kurs Ücreti
-+ Kursun toplam ücreti __2.200 TL__'dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) __%10__ indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
+Kursun toplam ücreti __2.200 TL__'dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) __%10__ indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
 
 
 ## Kursa Kayıt
