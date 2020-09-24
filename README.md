@@ -1,7 +1,7 @@
 ## Online Python Programlama Dili Kursu
 
 + Kurs __[C ve Sistem Programcıları Derneği](http://www.csystem.org/)__ tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
-+ Kurs __10 Ekim 2020__ tarihinde başlayacaktır.
++ Kurs __24 Ekim 2020__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __100__ saattir. 
