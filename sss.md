@@ -11,8 +11,8 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 Dersleri izleyen __3__ gün içinde dersleri size özel verilecek şifre ile __Vimeo__ üzerinden izleyebilirsiniz.
 
-### 160 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında `100` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
+### 120 saatlik bir kurs süresi çok uzun değil mi?
+Eğitim içeriği göz önüne alındığında __120__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Tabi ki. 
@@ -30,7 +30,7 @@ Tabi ki.
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
 
 ### Daha önce C ve Sistem Programcıları Derneğinde Python kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
-Hayır. Ancak __C ve Sistem Programcıları Derneğinde__ düzenlenmekte olan örgün kurslara tekrar amaçlı katılabilirsiniz.
+Hayır. Ancak __C ve Sistem Programcıları Derneği'nde__ düzenlenmekte olan örgün kurslara tekrar amaçlı katılabilirsiniz.
 
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.
