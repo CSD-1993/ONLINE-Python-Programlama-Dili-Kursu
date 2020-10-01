@@ -1,4 +1,4 @@
-# Online Python Programlama Dili ve Uygulamaları Kursu – Sık Sorulan Sorular
+# Online Python Programlama Dili Kursu – Sık Sorulan Sorular
 
 Aşağıda __Kaan Aslan__ tarafından verilen __Online Python Programlama Dili ve Uygulamaları Kursu__ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
